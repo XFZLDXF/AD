@@ -8,6 +8,14 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController{
+
+    IBOutlet UIScrollView *sv;
+    IBOutlet UIPageControl *page;
+    IBOutlet UIWebView *wb;
+    NSArray *Arr;
+    int TimeNum;
+    BOOL Tend;
+}
 
 @end

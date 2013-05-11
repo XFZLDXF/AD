@@ -18,6 +18,26 @@
 		0913E22E166CCB030096A686 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0913E22D166CCB030096A686 /* Default-568h@2x.png */; };
 		0913E231166CCB030096A686 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0913E230166CCB030096A686 /* ViewController.m */; };
 		0913E234166CCB030096A686 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0913E232166CCB030096A686 /* ViewController.xib */; };
+		0913E24F166CD0970096A686 /* a.png in Resources */ = {isa = PBXBuildFile; fileRef = 0913E24E166CD0970096A686 /* a.png */; };
+		0913E251166CD0A90096A686 /* d.png in Resources */ = {isa = PBXBuildFile; fileRef = 0913E250166CD0A90096A686 /* d.png */; };
+		CABB8627173CDE3D0068DE76 /* CHAvatarView.m in Sources */ = {isa = PBXBuildFile; fileRef = CABB8620173CDE3D0068DE76 /* CHAvatarView.m */; };
+		CABB8628173CDE3D0068DE76 /* CHDraggableView.m in Sources */ = {isa = PBXBuildFile; fileRef = CABB8622173CDE3D0068DE76 /* CHDraggableView.m */; };
+		CABB8629173CDE3D0068DE76 /* CHDraggableView+Avatar.m in Sources */ = {isa = PBXBuildFile; fileRef = CABB8624173CDE3D0068DE76 /* CHDraggableView+Avatar.m */; };
+		CABB862A173CDE3D0068DE76 /* CHDraggingCoordinator.m in Sources */ = {isa = PBXBuildFile; fileRef = CABB8626173CDE3D0068DE76 /* CHDraggingCoordinator.m */; };
+		CABB862C173CDEB20068DE76 /* avatar.png in Resources */ = {isa = PBXBuildFile; fileRef = CABB862B173CDEB20068DE76 /* avatar.png */; };
+		CABB8630173CE1D50068DE76 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = CABB862F173CE1D50068DE76 /* 1.png */; };
+		CABB863E173CFD600068DE76 /* ktv.png in Resources */ = {isa = PBXBuildFile; fileRef = CABB8632173CFD600068DE76 /* ktv.png */; };
+		CABB863F173CFD600068DE76 /* spa.png in Resources */ = {isa = PBXBuildFile; fileRef = CABB8633173CFD600068DE76 /* spa.png */; };
+		CABB8640173CFD600068DE76 /* 健身.png in Resources */ = {isa = PBXBuildFile; fileRef = CABB8634173CFD600068DE76 /* 健身.png */; };
+		CABB8641173CFD600068DE76 /* 咖啡.png in Resources */ = {isa = PBXBuildFile; fileRef = CABB8635173CFD600068DE76 /* 咖啡.png */; };
+		CABB8642173CFD600068DE76 /* 推拿.png in Resources */ = {isa = PBXBuildFile; fileRef = CABB8636173CFD600068DE76 /* 推拿.png */; };
+		CABB8643173CFD600068DE76 /* 棋牌.png in Resources */ = {isa = PBXBuildFile; fileRef = CABB8637173CFD600068DE76 /* 棋牌.png */; };
+		CABB8644173CFD600068DE76 /* 游泳.png in Resources */ = {isa = PBXBuildFile; fileRef = CABB8638173CFD600068DE76 /* 游泳.png */; };
+		CABB8645173CFD600068DE76 /* 网吧.png in Resources */ = {isa = PBXBuildFile; fileRef = CABB8639173CFD600068DE76 /* 网吧.png */; };
+		CABB8646173CFD600068DE76 /* 茶艺.png in Resources */ = {isa = PBXBuildFile; fileRef = CABB863A173CFD600068DE76 /* 茶艺.png */; };
+		CABB8647173CFD600068DE76 /* 足疗.png in Resources */ = {isa = PBXBuildFile; fileRef = CABB863B173CFD600068DE76 /* 足疗.png */; };
+		CABB8648173CFD600068DE76 /* 马术.png in Resources */ = {isa = PBXBuildFile; fileRef = CABB863C173CFD600068DE76 /* 马术.png */; };
+		CABB8649173CFD600068DE76 /* 高尔夫.png in Resources */ = {isa = PBXBuildFile; fileRef = CABB863D173CFD600068DE76 /* 高尔夫.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +57,30 @@
 		0913E22F166CCB030096A686 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		0913E230166CCB030096A686 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		0913E233166CCB030096A686 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		0913E24E166CD0970096A686 /* a.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = a.png; sourceTree = "<group>"; };
+		0913E250166CD0A90096A686 /* d.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = d.png; sourceTree = "<group>"; };
+		CABB861F173CDE3D0068DE76 /* CHAvatarView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CHAvatarView.h; sourceTree = "<group>"; };
+		CABB8620173CDE3D0068DE76 /* CHAvatarView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CHAvatarView.m; sourceTree = "<group>"; };
+		CABB8621173CDE3D0068DE76 /* CHDraggableView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CHDraggableView.h; sourceTree = "<group>"; };
+		CABB8622173CDE3D0068DE76 /* CHDraggableView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CHDraggableView.m; sourceTree = "<group>"; };
+		CABB8623173CDE3D0068DE76 /* CHDraggableView+Avatar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "CHDraggableView+Avatar.h"; sourceTree = "<group>"; };
+		CABB8624173CDE3D0068DE76 /* CHDraggableView+Avatar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "CHDraggableView+Avatar.m"; sourceTree = "<group>"; };
+		CABB8625173CDE3D0068DE76 /* CHDraggingCoordinator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CHDraggingCoordinator.h; sourceTree = "<group>"; };
+		CABB8626173CDE3D0068DE76 /* CHDraggingCoordinator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CHDraggingCoordinator.m; sourceTree = "<group>"; };
+		CABB862B173CDEB20068DE76 /* avatar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = avatar.png; sourceTree = "<group>"; };
+		CABB862F173CE1D50068DE76 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		CABB8632173CFD600068DE76 /* ktv.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ktv.png; sourceTree = "<group>"; };
+		CABB8633173CFD600068DE76 /* spa.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = spa.png; sourceTree = "<group>"; };
+		CABB8634173CFD600068DE76 /* 健身.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "健身.png"; sourceTree = "<group>"; };
+		CABB8635173CFD600068DE76 /* 咖啡.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "咖啡.png"; sourceTree = "<group>"; };
+		CABB8636173CFD600068DE76 /* 推拿.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "推拿.png"; sourceTree = "<group>"; };
+		CABB8637173CFD600068DE76 /* 棋牌.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "棋牌.png"; sourceTree = "<group>"; };
+		CABB8638173CFD600068DE76 /* 游泳.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "游泳.png"; sourceTree = "<group>"; };
+		CABB8639173CFD600068DE76 /* 网吧.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "网吧.png"; sourceTree = "<group>"; };
+		CABB863A173CFD600068DE76 /* 茶艺.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "茶艺.png"; sourceTree = "<group>"; };
+		CABB863B173CFD600068DE76 /* 足疗.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "足疗.png"; sourceTree = "<group>"; };
+		CABB863C173CFD600068DE76 /* 马术.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "马术.png"; sourceTree = "<group>"; };
+		CABB863D173CFD600068DE76 /* 高尔夫.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "高尔夫.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,11 +127,16 @@
 		0913E21D166CCB020096A686 /* AD */ = {
 			isa = PBXGroup;
 			children = (
+				CABB861E173CDE320068DE76 /* CH */,
 				0913E226166CCB030096A686 /* AppDelegate.h */,
 				0913E227166CCB030096A686 /* AppDelegate.m */,
 				0913E22F166CCB030096A686 /* ViewController.h */,
 				0913E230166CCB030096A686 /* ViewController.m */,
 				0913E232166CCB030096A686 /* ViewController.xib */,
+				0913E24E166CD0970096A686 /* a.png */,
+				CABB862F173CE1D50068DE76 /* 1.png */,
+				0913E250166CD0A90096A686 /* d.png */,
+				CABB862B173CDEB20068DE76 /* avatar.png */,
 				0913E21E166CCB020096A686 /* Supporting Files */,
 			);
 			path = AD;
@@ -96,6 +145,7 @@
 		0913E21E166CCB020096A686 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				CABB8631173CFD600068DE76 /* pic */,
 				0913E21F166CCB020096A686 /* AD-Info.plist */,
 				0913E220166CCB030096A686 /* InfoPlist.strings */,
 				0913E223166CCB030096A686 /* main.m */,
@@ -105,6 +155,40 @@
 				0913E22D166CCB030096A686 /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		CABB861E173CDE320068DE76 /* CH */ = {
+			isa = PBXGroup;
+			children = (
+				CABB861F173CDE3D0068DE76 /* CHAvatarView.h */,
+				CABB8620173CDE3D0068DE76 /* CHAvatarView.m */,
+				CABB8621173CDE3D0068DE76 /* CHDraggableView.h */,
+				CABB8622173CDE3D0068DE76 /* CHDraggableView.m */,
+				CABB8623173CDE3D0068DE76 /* CHDraggableView+Avatar.h */,
+				CABB8624173CDE3D0068DE76 /* CHDraggableView+Avatar.m */,
+				CABB8625173CDE3D0068DE76 /* CHDraggingCoordinator.h */,
+				CABB8626173CDE3D0068DE76 /* CHDraggingCoordinator.m */,
+			);
+			name = CH;
+			sourceTree = "<group>";
+		};
+		CABB8631173CFD600068DE76 /* pic */ = {
+			isa = PBXGroup;
+			children = (
+				CABB8632173CFD600068DE76 /* ktv.png */,
+				CABB8633173CFD600068DE76 /* spa.png */,
+				CABB8634173CFD600068DE76 /* 健身.png */,
+				CABB8635173CFD600068DE76 /* 咖啡.png */,
+				CABB8636173CFD600068DE76 /* 推拿.png */,
+				CABB8637173CFD600068DE76 /* 棋牌.png */,
+				CABB8638173CFD600068DE76 /* 游泳.png */,
+				CABB8639173CFD600068DE76 /* 网吧.png */,
+				CABB863A173CFD600068DE76 /* 茶艺.png */,
+				CABB863B173CFD600068DE76 /* 足疗.png */,
+				CABB863C173CFD600068DE76 /* 马术.png */,
+				CABB863D173CFD600068DE76 /* 高尔夫.png */,
+			);
+			path = pic;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -163,6 +247,22 @@
 				0913E22C166CCB030096A686 /* Default@2x.png in Resources */,
 				0913E22E166CCB030096A686 /* Default-568h@2x.png in Resources */,
 				0913E234166CCB030096A686 /* ViewController.xib in Resources */,
+				0913E24F166CD0970096A686 /* a.png in Resources */,
+				0913E251166CD0A90096A686 /* d.png in Resources */,
+				CABB862C173CDEB20068DE76 /* avatar.png in Resources */,
+				CABB8630173CE1D50068DE76 /* 1.png in Resources */,
+				CABB863E173CFD600068DE76 /* ktv.png in Resources */,
+				CABB863F173CFD600068DE76 /* spa.png in Resources */,
+				CABB8640173CFD600068DE76 /* 健身.png in Resources */,
+				CABB8641173CFD600068DE76 /* 咖啡.png in Resources */,
+				CABB8642173CFD600068DE76 /* 推拿.png in Resources */,
+				CABB8643173CFD600068DE76 /* 棋牌.png in Resources */,
+				CABB8644173CFD600068DE76 /* 游泳.png in Resources */,
+				CABB8645173CFD600068DE76 /* 网吧.png in Resources */,
+				CABB8646173CFD600068DE76 /* 茶艺.png in Resources */,
+				CABB8647173CFD600068DE76 /* 足疗.png in Resources */,
+				CABB8648173CFD600068DE76 /* 马术.png in Resources */,
+				CABB8649173CFD600068DE76 /* 高尔夫.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -176,6 +276,10 @@
 				0913E224166CCB030096A686 /* main.m in Sources */,
 				0913E228166CCB030096A686 /* AppDelegate.m in Sources */,
 				0913E231166CCB030096A686 /* ViewController.m in Sources */,
+				CABB8627173CDE3D0068DE76 /* CHAvatarView.m in Sources */,
+				CABB8628173CDE3D0068DE76 /* CHDraggableView.m in Sources */,
+				CABB8629173CDE3D0068DE76 /* CHDraggableView+Avatar.m in Sources */,
+				CABB862A173CDE3D0068DE76 /* CHDraggingCoordinator.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -292,6 +396,7 @@
 				0913E239166CCB030096A686 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
